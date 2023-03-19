@@ -20,10 +20,10 @@ class ClothesTableSeeder extends Seeder
     {
         $clothes=[
             [
-                "marca" => "Gucci",
-                "img" => "https://th.bing.com/th/id/R.1786d9c340c5c8e0716f4f9068280154?rik=OfhXE0t5mFDQXA&pid=ImgRaw&r=0",
+                "marca" => "K-Way",
+                "img" => "https://img01.ztat.net/article/spp-media-p1/3cc1d2445e26490fa469f9a30e8e27c3/53ed8a0844a64ee28effdc553724435d.jpg?imwidth=762",
                 "prezzo" => "129.99",
-                "genere" => "maschio",
+                "genere" => "unis",
                 "descrizione" => "Composizione: 100% ,cotone Materiale: Jersey,Avvertenze: Non asciugare in asciugatrice, Lavaggio a macchina a 30 gradi",
                 "consegna_rapida" => 1,
                 "colezzione_nuova" => 0,
@@ -35,7 +35,7 @@ class ClothesTableSeeder extends Seeder
                 "img" => "https://img01.ztat.net/article/spp-media-p1/c3b3650687bc49d2ad72255f04fe8eac/e982a577145a4940809ee503d46c7435.jpg?imwidth=762",
                 "prezzo" => "42.99",
                 "genere" => "maschio",
-                "descrizione" => "Composizione: 100% ,cotone",
+                "descrizione" =>"Composizione: 100% ,cotone",
                 "consegna_rapida" => 1,
                 "colezzione_nuova" => 1,
                 "tipo" => "Maglia",
